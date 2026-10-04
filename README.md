@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="frohdbek terminal banner" width="100%"/>
+<img src="./banner.svg?v=2" alt="frohdbek terminal banner" width="100%"/>
 
 <a href="https://github.com/frohdbek">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;Computer+Engineering+Student;Linux+%7C+Network+Security;Building+things+on+Raspberry+Pi;Software+Architecture+Enthusiast" alt="Typing SVG" />
