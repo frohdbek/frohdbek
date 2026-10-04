@@ -35,6 +35,7 @@ status     = "always learning"
 | 📈 [trendsai](https://trendsai.com.tr/) | AI-powered web app that analyzes Google Trends data | `Python` `AI` |
 | 🔗 [Zincir-app](https://github.com/frohdbek/Zincir-app) | Daily streak tracker, each task keeps its own streak | `HTML` |
 | 🪙 [live_gold](https://github.com/frohdbek/live_gold) | Telegram bot for real-time gold prices | `Python` |
+| 🔐 [RSA-Crack](https://github.com/frohdbek/RSA-Crack) | Multi-stage integer factorization driver: trial division, Pollard rho, ECM, SIQS, GNFS | `Python` `Cryptography` |
 
 ## `$ cat skills.txt`
 
