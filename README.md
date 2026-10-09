@@ -36,7 +36,7 @@ status     = "always learning"
 | 🔗 [Zincir-app](https://github.com/frohdbek/Zincir-app) | Daily streak tracker, each task keeps its own streak | `HTML` |
 | 🪙 [live_gold](https://github.com/frohdbek/live_gold) | Telegram bot for real-time gold prices | `Python` |
 | 🔐 [RSA-Crack](https://github.com/frohdbek/RSA-Crack) | Multi-stage integer factorization driver: trial division, Pollard rho, ECM, SIQS, GNFS | `Python` `Cryptography` |
-| 🎴 flashcards | Offline English-Turkish vocabulary flashcards app: Jetpack Compose, Room SQLite, custom delimiters | Kotlin Android |
+| 🎴 [flashcards](https://github.com/frohdbek/flashcards)| Offline English-Turkish vocabulary flashcards app: Jetpack Compose, Room SQLite, custom delimiters | Kotlin Android |
 
 ## `$ cat skills.txt`
 
