@@ -74,9 +74,10 @@ status     = "always learning"
 
 <br/>
 
-```
+```bash
 $ echo "Thanks for stopping by!"
 Thanks for stopping by!
 ```
+
 
 </div>
