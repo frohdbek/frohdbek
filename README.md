@@ -63,13 +63,6 @@ status     = "always learning"
 
 </div>
 
-## `$ ./activity --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frohdbek&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" />
-
-</div>
 
 ## `$ contact --all`
 
